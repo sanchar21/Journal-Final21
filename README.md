@@ -83,7 +83,8 @@ week 7:
 Cloud Computing:
 Task 1: Login to Microsoft Learn on Demand:
 ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/17cdda88-1f38-4c0d-8e8c-b494022b073d)  
-task 2: Create an Azure Resource ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9f5300ee-67ed-4044-a608-e14a4a19e0c7)
+task 2: Create an Azure Resource 
+![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9f5300ee-67ed-4044-a608-e14a4a19e0c7)
 I have created storage in resource group myRGKV-lod30598129, storage group cloudshell30598129 and in file share shellstorage. 
 task 3: Create an Azure Virtual Machine and Allow Web Access.
 ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/0354b9d9-f44a-44da-bde0-53799d6e7ec3)
@@ -115,7 +116,8 @@ Threats source 2: Natural disaster
 Motivation: natural disaster such as lightning can caused damage to the hardware in our network.
 Threats source 3: phishers 
 Motivation: if someone are able to make camera down and want to steal it will be easier to them as the camera is not working and no information of thief is recorded. 
-Task 3: Explore Vulnerabilities: <img width="925" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/4a7b61d3-a48b-489f-ac5e-cba828f128da">
+Task 3: Explore Vulnerabilities:
+<img width="925" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/4a7b61d3-a48b-489f-ac5e-cba828f128da">
 security: 5.8 medium, CVE Dictionary Entry: CVE-2022-36327, NVD Published Date:05/18/2023, NVD Last Modified:05/18/2023, Source:Western Digital
 <img width="917" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/e3b43e8b-1c63-4f1c-9a58-1153c9ee1e56"> 
 security:7.8 high, CVE Dictionary Entry:CVE-2023-30840, NVD Published Date: 05/08/2023, NVD Last Modified:05/15/2023, Source:GitHub, Inc.
