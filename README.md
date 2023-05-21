@@ -84,7 +84,8 @@ Cloud Computing:
 Task 1: Login to Microsoft Learn on Demand:
 ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/17cdda88-1f38-4c0d-8e8c-b494022b073d)  
 task 2: Create an Azure Resource ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9f5300ee-67ed-4044-a608-e14a4a19e0c7) I have created storage in resource group myRGKV-lod30598129, storage group cloudshell30598129 and in file share shellstorage. 
-task 3: Create an Azure Virtual Machine and Allow Web Access. ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/0354b9d9-f44a-44da-bde0-53799d6e7ec3)
+task 3: Create an Azure Virtual Machine and Allow Web Access.
+![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/0354b9d9-f44a-44da-bde0-53799d6e7ec3)
   ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9ded5ddd-5ca9-4fca-bdc4-ce092cc2910f) creating an Azure Virtual machine.   ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/41599cc5-9cff-42c0-afbf-bb2ccbe691e6) 
   
 Week 8: Attacks and Vulnerabilities:
@@ -150,7 +151,8 @@ Computers and Servers typically contain data assets that need classification. Th
 Access Points and Switches do not typically involve data assets themselves. They are network infrastructure components that facilitate network connectivity.
 Video Recorders, such as CCTV DVRs and NVRs CC Camera often store video footage, which constitutes a data asset that needs classification.
 Remember that data asset classification involves identifying the sensitivity and criticality of data, allowing for appropriate security controls and protection measures.
-Task 3: <img width="569" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/322c48e9-a733-4c64-81de-f2929e4e4910"> 
+Task 3:
+<img width="569" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/322c48e9-a733-4c64-81de-f2929e4e4910"> 
 In this diagram, the "Computer" data asset is connected to the CC Camera, Server, Switch, and Access Point (AP). It indicates that the computer interacts with these assets, likely for data processing, management, and communication purposes.
 <img width="362" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/32f9a20a-27ce-494a-8a6b-eeedf24646ac">
 In this diagram, the "Server" data asset is connected to the Video Recorder (DVR or NVR), CC Camera, Switch, and Access Point (AP). This connection signifies the role of the server in managing and processing data from these assets, such as storing video footage from the CC cameras and providing network connectivity through the switch and access point.
