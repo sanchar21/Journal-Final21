@@ -144,15 +144,7 @@ Importance: Incident response minimizes the impact of security incidents, ensuri
 Mitigated Attack/Vulnerability: Reduces damage from successful attacks, safeguarding CC cameras, wireless devices, and the network overall.
 Task 2:
  Here is an table including the  asset type:
-
-| Asset Type     | Asset Examples          | Data Asset Classification |
-|----------------|----------------------  -|---------------------------|
-| Computer       | Desktop PC, Laptop      | Yes                       |
-| Access Point   | Wi-Fi Router, AP        | No                        |
-| Server         | File Server, Web Server | Yes                       |
-| Video Recorder | CCTV DVR, NVR           | Yes                       |
-| Switch         | Network Switch          | No                        |
-| CC Camera      | Security Cameras        | Yes                       | 
+ <img width="473" alt="image" src="https://github.com/sanchar21/Journal-Final21/assets/128453476/cac481b9-a702-4d06-b060-c592758fe65f">
 In this table, the asset types include "Computer", "Access Point", "Server", "Video Recorder","Switch" and "CC camera". The "Data Asset Classification" column indicates whether each asset type involves data assets that need classification. Based on the table:
 Computers and Servers typically contain data assets that need classification. They store and process various types of data.
 Access Points and Switches do not typically involve data assets themselves. They are network infrastructure components that facilitate network connectivity.
