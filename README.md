@@ -83,10 +83,13 @@ week 7:
 Cloud Computing:
 Task 1: Login to Microsoft Learn on Demand:
 ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/17cdda88-1f38-4c0d-8e8c-b494022b073d)  
-task 2: Create an Azure Resource ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9f5300ee-67ed-4044-a608-e14a4a19e0c7) I have created storage in resource group myRGKV-lod30598129, storage group cloudshell30598129 and in file share shellstorage. 
+task 2: Create an Azure Resource ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9f5300ee-67ed-4044-a608-e14a4a19e0c7)
+I have created storage in resource group myRGKV-lod30598129, storage group cloudshell30598129 and in file share shellstorage. 
 task 3: Create an Azure Virtual Machine and Allow Web Access.
 ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/0354b9d9-f44a-44da-bde0-53799d6e7ec3)
-  ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9ded5ddd-5ca9-4fca-bdc4-ce092cc2910f) creating an Azure Virtual machine.   ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/41599cc5-9cff-42c0-afbf-bb2ccbe691e6) 
+  ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/9ded5ddd-5ca9-4fca-bdc4-ce092cc2910f) 
+  creating an Azure Virtual machine. 
+  ![image](https://github.com/sanchar21/Journal-Final21/assets/128453476/41599cc5-9cff-42c0-afbf-bb2ccbe691e6) 
   
 Week 8: Attacks and Vulnerabilities:
 Task 1. CIA Protections The list of the important assets in the network are as follows: 
